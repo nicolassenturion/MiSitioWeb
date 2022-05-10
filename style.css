@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Koulen&family=Vollkorn&display=swap');
+
+
+
+h1{
+    text-transform: uppercase; color:#ffffff; margin: 0px 600px 0px 250px;font-family:'Bebas Neue', cursive; font-size: 50px;
+}
+
+h2{
+    text-transform: uppercase; color: #f8f9fc; margin: 0px 800px 0px 250px;font-family:'Bebas Neue', cursive; font-size: 40px;font-weight: lighter;
+}
+
+h3{ margin: 0px 600px 60px 250px; color: #dde3f7; font-family: 'Vollkorn', serif;
+
+}
+
+.textos{
+margin: 0px 600px 15px 250px; color: #cdd7f7; font-family: 'Vollkorn', serif; text-size-adjust: 100%; text-align: left;
+}
+
+.trailer{margin: 0px 600px 60px 250px }
+
+body{background-color:#191d25; padding: auto;}
+
+footer {background-color: #23202c; width: 100%;height: 200px; padding: 100px;text-align:center; text-transform: uppercase; color: #dde3f7;font-family: 'Vollkorn', serif;
+}
+
+
